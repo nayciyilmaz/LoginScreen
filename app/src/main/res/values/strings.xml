@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+
+    <string name="sign_in_button">Sign In</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="sign_in_title">Sign In</string>
+    <string name="Continue">Continue</string>
+    <string name="sign_up_title">Sign Up</string>
+    <string name="homepage_title">Homepage</string>
+    <string name="log_out">Log Out</string>
+    <string name="log_out_message">Are you sure you want to log out?</string>
+    <string name="email">E Mail</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="name_error">The name should be at least 3 characters</string>
+    <string name="password_error">The password should be at least 6 characters</string>
+    <string name="mail_error">Enter a valid email address</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
